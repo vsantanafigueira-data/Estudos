@@ -10,7 +10,6 @@ int N;
 
 while(scanf("%d", &N)!=EOF){
     
-printf("%d",N);
 
 }
 
